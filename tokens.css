@@ -1,0 +1,62 @@
+:root {
+  --bv-blue: #4434E2;
+  --bv-blue-900: #221A90;
+  --bv-blue-800: #2C22A7;
+  --bv-blue-700: #3728BF;
+  --bv-blue-600: #4434E2;
+  --bv-blue-500: #5B4DF0;
+  --bv-blue-100: #EBE9FF;
+  --bv-green: #00E49B;
+  --bv-green-700: #008A60;
+  --bv-green-100: #DDFBF1;
+  --bv-violet: #9E5DF9;
+  --bv-violet-700: #6B35D1;
+  --bv-violet-100: #F0E7FF;
+  --bv-gray-950: #101828;
+  --bv-gray-900: #182230;
+  --bv-gray-800: #243043;
+  --bv-gray-700: #344054;
+  --bv-gray-600: #475467;
+  --bv-gray-500: #667085;
+  --bv-gray-400: #98A2B3;
+  --bv-gray-300: #D0D5DD;
+  --bv-gray-200: #EAECF0;
+  --bv-gray-100: #F2F4F7;
+  --bv-gray-50: #F8FAFC;
+  --bv-white: #FFFFFF;
+
+  --bv-success: #008A60;
+  --bv-warning: #B54708;
+  --bv-danger: #B42318;
+  --bv-info: #175CD3;
+
+  --bv-font-sans: -apple-system, BlinkMacSystemFont, "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", "Segoe UI", sans-serif;
+  --bv-font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+
+  --bv-space-0: 0;
+  --bv-space-1: 4px;
+  --bv-space-2: 8px;
+  --bv-space-3: 12px;
+  --bv-space-4: 16px;
+  --bv-space-5: 20px;
+  --bv-space-6: 24px;
+  --bv-space-8: 32px;
+  --bv-space-10: 40px;
+  --bv-space-12: 48px;
+  --bv-space-16: 64px;
+
+  --bv-radius-xs: 6px;
+  --bv-radius-sm: 10px;
+  --bv-radius-md: 14px;
+  --bv-radius-lg: 20px;
+  --bv-radius-xl: 28px;
+  --bv-radius-full: 999px;
+
+  --bv-shadow-sm: 0 1px 2px rgba(16,24,40,.08);
+  --bv-shadow-md: 0 12px 28px rgba(16,24,40,.10);
+  --bv-shadow-lg: 0 28px 80px rgba(16,24,40,.16);
+
+  --bv-duration-fast: 120ms;
+  --bv-duration-normal: 180ms;
+  --bv-easing-standard: cubic-bezier(.2,.8,.2,1);
+}
